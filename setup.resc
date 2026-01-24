@@ -1,0 +1,10 @@
+mach create "stm32"
+
+machine LoadPlatformDescription@platforms/boards/stm32f4_discovery-kit.repl
+
+
+sysbus LoadELF @blink.elf
+
+i @python_log_scripts/led_log.py
+
+logLevel 3 gpioPortD
