@@ -6,9 +6,15 @@ include @my_sensor.cs
 machine LoadPlatformDescription @platforms/boards/stm32f4_discovery-kit.repl
 machine LoadPlatformDescription @distance_sensor.repl
 
-sysbus LoadELF @blink.elf
+# Start GDB server for debugging
+# Argument 'true' for autostart, 'true' for wait for connection
+machine StartGdbServer 3333 true
+
+# Explicitly pause the machine before loading the ELF
+pause
+
+sysbus LoadELF @mystm/build/mystm.elf
 
 # Use UDP receiver for Unity data instead of sine_sim
 i @python_log_scripts/udp_sensor_receiver.py
-i @python_log_scripts/distance_log.py
 

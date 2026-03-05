@@ -12,7 +12,7 @@ sensor = self.Machine["sysbus.i2c1.dist_sensor"]
 
 class LocalState:
     def __init__(self):
-        self.last_distance = 1000.0
+        self.last_distance = 10.0
 
 state = LocalState()
 

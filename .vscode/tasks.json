@@ -12,6 +12,18 @@
                 "panel": "new",
                 "focus": true
             }
+        },
+        {
+            "label": "Renode: Debug (Wait for GDB)",
+            "type": "shell",
+            "command": "renode --console -e \"s @${workspaceFolder}/setup.resc\"",
+            "problemMatcher": [],
+            "group": "none",
+            "presentation": {
+                "reveal": "always",
+                "panel": "new",
+                "focus": true
+            }
         }
     ]
 }

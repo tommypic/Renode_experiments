@@ -47,13 +47,20 @@ except Exception as e:
 sensor = self.Machine["sysbus.i2c1.dist_sensor"]
 
 def log_distance(time):
+    global pipe
     if pipe:
         try:
             seconds = float(time.TimeElapsed.TotalSeconds)
-            current_dist = sensor.Distance
-            pipe.WriteLine("[{:.2f}s] SENSOR DISTANCE: {}m".format(seconds, current_dist))
-        except Exception as e:
-            print("Logging error to distance pipe: {}".format(e))
+            current_distance = sensor.Distance
+            pipe.WriteLine("[{:.2f}s] SENSOR DISTANCE: {}mm".format(seconds, current_distance))
+        except Exception:
+            # Handle broken pipe (reader closed)
+            pipe = None
+            print("Distance pipe reader disconnected. Re-attempting connection in background...")
+            # Re-start the thread to wait for a new reader
+            t = threading.Thread(target=open_pipe_threaded)
+            t.daemon = True
+            t.start()
 
 # Fix: Added *args to handle the TimeInterval argument passed by Renode
 def schedule_log(*args):

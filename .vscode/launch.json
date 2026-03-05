@@ -2,6 +2,18 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Renode: Debug (Cortex-Debug)",
+            "type": "cortex-debug",
+            "request": "launch",
+            "servertype": "external",
+            "gdbTarget": "localhost:3333",
+            "gdbpath": "arm-none-eabi-gdb",
+            "cwd": "${workspaceFolder}",
+            "executable": "mystm/build/mystm.elf",
+            "preLaunchTask": "Renode: Debug (Wait for GDB)",
+            "controlPort": 4444
+        },
+        {
             "name": "Renode: Start",
             "type": "node",
             "request": "launch",

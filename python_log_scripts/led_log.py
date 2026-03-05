@@ -1,36 +1,47 @@
 # -*- coding: utf-8 -*-
-import os
+import System.IO
+import threading
 from Antmicro.Renode.Core import EmulationManager
 
 pipe_path = "/home/tom/Renode_experiments/python_log_scripts/led_status_pipe"
 
-try:
-    # Use os.open with O_NONBLOCK to prevent blocking if there is no reader
-    fd = os.open(pipe_path, os.O_WRONLY | os.O_NONBLOCK)
-    pipe = os.fdopen(fd, "a")
-except OSError:
-    print("Could not open LED pipe (non-blocking). Is it created and has a reader?")
-    pipe = None
-except Exception as e:
-    print("Could not open LED pipe: {}. Is it created?".format(e))
-    pipe = None
+pipe = None
+def open_pipe_threaded():
+    global pipe
+    try:
+        # Blocks the thread until a reader is ready
+        stream = System.IO.File.Open(pipe_path, System.IO.FileMode.Open, System.IO.FileAccess.Write, System.IO.FileShare.ReadWrite)
+        pipe = System.IO.StreamWriter(stream)
+        pipe.AutoFlush = True
+        print("LED pipe connected.")
+    except:
+        pass
 
+# Initial attempt to connect in background
+t = threading.Thread(target=open_pipe_threaded)
+t.daemon = True
+t.start()
 
 def led_logger(sender, value):
+    global pipe
+    if not pipe:
+        return
+        
     try:
         machine_obj = sender.GetMachine()
-
         time_str = str(machine_obj.ElapsedVirtualTime)
-
         status = "ON " if value else "OFF"
+        
+        # Write to the pipe using .NET StreamWriter method
+        pipe.WriteLine("[{}] LED STATUS: {}".format(time_str, status))
 
-        # Write to the pipe
-        pipe.write("[{}] LED STATUS: {}\n".format(time_str, status))
-        pipe.flush()
-
-    except Exception as e:
-        # Using the monitor to print errors helps with debugging
-        print("Logging error to pipe: {}".format(e))
+    except Exception:
+        # Broken pipe (reader closed)
+        pipe = None
+        print("LED pipe disconnected. Waiting for new reader in background...")
+        t_reconnect = threading.Thread(target=open_pipe_threaded)
+        t_reconnect.daemon = True
+        t_reconnect.start()
 
 
 led_device = self.Machine["sysbus.gpioPortD.UserLED"]
