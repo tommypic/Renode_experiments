@@ -1,10 +1,14 @@
 mach create "stm32"
 
-machine LoadPlatformDescription@platforms/boards/stm32f4_discovery-kit.repl
+# Compile and load the custom C# sensor
+include @my_sensor.cs
 
+machine LoadPlatformDescription @platforms/boards/stm32f4_discovery-kit.repl
+machine LoadPlatformDescription @distance_sensor.repl
 
 sysbus LoadELF @blink.elf
 
-i @python_log_scripts/led_log.py
+# Use UDP receiver for Unity data instead of sine_sim
+i @python_log_scripts/udp_sensor_receiver.py
+i @python_log_scripts/distance_log.py
 
-logLevel 3 gpioPortD

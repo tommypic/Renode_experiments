@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Renode: Start",
+            "type": "node",
+            "request": "launch",
+            "preLaunchTask": "Renode: Start",
+            "runtimeExecutable": "echo",
+            "runtimeArgs": [
+                "Renode started via task"
+            ]
+        }
+    ]
+}

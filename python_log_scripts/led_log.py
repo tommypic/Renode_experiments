@@ -1,8 +1,19 @@
 # -*- coding: utf-8 -*-
+import os
 from Antmicro.Renode.Core import EmulationManager
 
 pipe_path = "/home/tom/Renode_experiments/python_log_scripts/led_status_pipe"
-pipe = open(pipe_path, "a", 0)
+
+try:
+    # Use os.open with O_NONBLOCK to prevent blocking if there is no reader
+    fd = os.open(pipe_path, os.O_WRONLY | os.O_NONBLOCK)
+    pipe = os.fdopen(fd, "a")
+except OSError:
+    print("Could not open LED pipe (non-blocking). Is it created and has a reader?")
+    pipe = None
+except Exception as e:
+    print("Could not open LED pipe: {}. Is it created?".format(e))
+    pipe = None
 
 
 def led_logger(sender, value):

@@ -173,3 +173,1032 @@ Cumulative load: 0.9999960208333334
 State: WaitingForReportBack
 Advance immediately: False
 Quantum: 00:00:00.000100000, TimeElapsed = 00:00:19.200000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:00.000000000
+Elapsed Host Time: 00:00:00.000000000
+Current load: NaN
+Cumulative load: NaN
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:00.000000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:00.800000000
+Elapsed Host Time: 00:00:00.799924800
+Current load: 0.9869
+Cumulative load: 0.999906
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:00.800000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:01.600000000
+Elapsed Host Time: 00:00:01.599937800
+Current load: 1.0135
+Cumulative load: 0.999961125
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:01.600000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:02.400000000
+Elapsed Host Time: 00:00:02.399924900
+Current load: 1.0001
+Cumulative load: 0.9999687083333333
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:02.400000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:03.200000000
+Elapsed Host Time: 00:00:03.199925500
+Current load: 1.0004
+Cumulative load: 0.99997671875
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:03.200000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:04.000000000
+Elapsed Host Time: 00:00:03.999937500
+Current load: 1.0131
+Cumulative load: 0.999984375
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:04.000000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:04.800000000
+Elapsed Host Time: 00:00:04.799926600
+Current load: 1.0019
+Cumulative load: 0.9999847083333333
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:04.800000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:05.600000000
+Elapsed Host Time: 00:00:05.599941500
+Current load: 0.9994
+Cumulative load: 0.9999895535714286
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:05.600000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:06.400000000
+Elapsed Host Time: 00:00:06.399925500
+Current load: 0.9792
+Cumulative load: 0.999988359375
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:06.400000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:07.200000000
+Elapsed Host Time: 00:00:07.199925000
+Current load: 1.0004
+Cumulative load: 0.9999895833333333
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:07.200000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:08.000000000
+Elapsed Host Time: 00:00:07.999924500
+Current load: 1.0002
+Cumulative load: 0.9999905625
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:08.000000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:08.800000000
+Elapsed Host Time: 00:00:08.799925000
+Current load: 1.0002
+Cumulative load: 0.9999914772727273
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:08.800000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:09.600000000
+Elapsed Host Time: 00:00:09.599942400
+Current load: 1.0009
+Cumulative load: 0.999994
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:09.600000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:10.400000000
+Elapsed Host Time: 00:00:10.399941200
+Current load: 1.0004
+Cumulative load: 0.9999943461538462
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:10.400000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:11.200000000
+Elapsed Host Time: 00:00:11.199924500
+Current load: 0.9999
+Cumulative load: 0.9999932589285714
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:11.200000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:12.000000000
+Elapsed Host Time: 00:00:11.999942700
+Current load: 1.0013
+Cumulative load: 0.999995225
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:12.000000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:12.800000000
+Elapsed Host Time: 00:00:12.799943000
+Current load: 1.0005
+Cumulative load: 0.999995546875
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:12.800000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:13.600000000
+Elapsed Host Time: 00:00:13.599925200
+Current load: 1.0004
+Cumulative load: 0.9999945
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:13.600000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:14.400000000
+Elapsed Host Time: 00:00:14.399944900
+Current load: 1.0033
+Cumulative load: 0.9999961736111111
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:14.400000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:15.200000000
+Elapsed Host Time: 00:00:15.199925800
+Current load: 1.0005
+Cumulative load: 0.9999951184210526
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:15.200000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:16.000000000
+Elapsed Host Time: 00:00:15.999924700
+Current load: 0.9856
+Cumulative load: 0.99999529375
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:16.000000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:16.800000000
+Elapsed Host Time: 00:00:16.799925300
+Current load: 1.0006
+Cumulative load: 0.9999955535714286
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:16.800000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:17.600000000
+Elapsed Host Time: 00:00:17.599971900
+Current load: 0.9775
+Cumulative load: 0.999998403409091
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:17.600000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:18.400000000
+Elapsed Host Time: 00:00:18.399925200
+Current load: 0.9787
+Cumulative load: 0.9999959347826087
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:18.400000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:19.200000000
+Elapsed Host Time: 00:00:19.199925000
+Current load: 0.9993
+Cumulative load: 0.99999609375
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:19.200000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:20.000000000
+Elapsed Host Time: 00:00:19.999924300
+Current load: 0.9997
+Cumulative load: 0.999996215
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:20.000000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:20.800000000
+Elapsed Host Time: 00:00:20.799941600
+Current load: 0.9977
+Cumulative load: 0.9999971923076924
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:20.800000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:21.600000000
+Elapsed Host Time: 00:00:21.599941100
+Current load: 0.9991
+Cumulative load: 0.9999972731481481
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:21.600000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:22.400000000
+Elapsed Host Time: 00:00:22.399962400
+Current load: 1.037
+Cumulative load: 0.9999983214285715
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:22.400000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:23.200000000
+Elapsed Host Time: 00:00:23.199924600
+Current load: 1.0001
+Cumulative load: 0.99999675
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:23.200000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:24.000000000
+Elapsed Host Time: 00:00:23.999927600
+Current load: 0.6134
+Cumulative load: 0.9999969833333333
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:24.000000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:24.800000000
+Elapsed Host Time: 00:00:24.799924300
+Current load: 0.9853
+Cumulative load: 0.9999969475806452
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:24.800000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:25.600000000
+Elapsed Host Time: 00:00:25.599938800
+Current load: 0.9879
+Cumulative load: 0.999997609375
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:25.600000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:26.400000000
+Elapsed Host Time: 00:00:26.399924700
+Current load: 0.9998
+Cumulative load: 0.9999971477272728
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:26.400000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:27.200000000
+Elapsed Host Time: 00:00:27.199957600
+Current load: 1.0332
+Cumulative load: 0.9999984411764706
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:27.200000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:28.000000000
+Elapsed Host Time: 00:00:27.999925000
+Current load: 1
+Cumulative load: 0.9999973214285715
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:28.000000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:28.800000000
+Elapsed Host Time: 00:00:28.799941400
+Current load: 0.985
+Cumulative load: 0.9999979652777777
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:28.800000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:29.600000000
+Elapsed Host Time: 00:00:29.599925700
+Current load: 1.0011
+Cumulative load: 0.9999974898648649
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:29.600000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:30.400000000
+Elapsed Host Time: 00:00:30.399924600
+Current load: 0.9996
+Cumulative load: 0.9999975197368421
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:30.400000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:31.200000000
+Elapsed Host Time: 00:00:31.199924600
+Current load: 1.0001
+Cumulative load: 0.9999975833333333
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:31.200000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:32.000000000
+Elapsed Host Time: 00:00:31.999924700
+Current load: 0.9868
+Cumulative load: 0.999997646875
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:32.000000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:32.800000000
+Elapsed Host Time: 00:00:32.799941900
+Current load: 1.0003
+Cumulative load: 0.9999982286585366
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:32.800000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:33.600000000
+Elapsed Host Time: 00:00:33.600029300
+Current load: 1.1045
+Cumulative load: 1.0000008720238096
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:33.600000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:34.400000000
+Elapsed Host Time: 00:00:34.399941800
+Current load: 1.0001
+Cumulative load: 0.9999983081395348
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:34.400000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:35.200000000
+Elapsed Host Time: 00:00:35.199924600
+Current load: 0.9998
+Cumulative load: 0.9999978579545454
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:35.200000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:36.000000000
+Elapsed Host Time: 00:00:35.999942100
+Current load: 0.9967
+Cumulative load: 0.9999983916666667
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:36.000000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:36.800000000
+Elapsed Host Time: 00:00:36.799925300
+Current load: 1.0009
+Cumulative load: 0.9999979701086956
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:36.800000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:37.600000000
+Elapsed Host Time: 00:00:37.599924700
+Current load: 0.9868
+Cumulative load: 0.9999979973404255
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:37.600000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:38.400000000
+Elapsed Host Time: 00:00:38.399924800
+Current load: 1
+Cumulative load: 0.9999980416666666
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:38.400000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:39.200000000
+Elapsed Host Time: 00:00:39.199924600
+Current load: 0.9999
+Cumulative load: 0.9999980765306122
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:39.200000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:40.000000000
+Elapsed Host Time: 00:00:39.999939000
+Current load: 1.0147
+Cumulative load: 0.999998475
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:40.000000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:40.800000000
+Elapsed Host Time: 00:00:40.799924700
+Current load: 1.0001
+Cumulative load: 0.9999981544117648
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:40.800000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:41.600000000
+Elapsed Host Time: 00:00:41.599941300
+Current load: 0.9803
+Cumulative load: 0.9999985889423076
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:41.600000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:42.400000000
+Elapsed Host Time: 00:00:42.399924700
+Current load: 1.0001
+Cumulative load: 0.9999982240566038
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:42.400000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:43.200000000
+Elapsed Host Time: 00:00:43.199941100
+Current load: 1.0002
+Cumulative load: 0.9999986365740741
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:43.200000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:44.000000000
+Elapsed Host Time: 00:00:43.999924600
+Current load: 0.9999
+Cumulative load: 0.9999982863636364
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:44.000000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:44.800000000
+Elapsed Host Time: 00:00:44.799931700
+Current load: 1.0023
+Cumulative load: 0.9999984754464286
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:44.800000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:45.600000000
+Elapsed Host Time: 00:00:45.599925200
+Current load: 0.942
+Cumulative load: 0.9999983596491228
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:45.600000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:46.400000000
+Elapsed Host Time: 00:00:46.399924400
+Current load: 0.9998
+Cumulative load: 0.9999983706896551
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:46.400000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:47.200000000
+Elapsed Host Time: 00:00:47.199925400
+Current load: 0.9867
+Cumulative load: 0.9999984194915255
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:47.200000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:48.000000000
+Elapsed Host Time: 00:00:47.999938900
+Current load: 0.9913
+Cumulative load: 0.9999987270833334
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:48.000000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:48.800000000
+Elapsed Host Time: 00:00:48.800058400
+Current load: 1.1335
+Cumulative load: 1.0000011967213114
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:48.800000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:49.600000000
+Elapsed Host Time: 00:00:49.599924900
+Current load: 1.0005
+Cumulative load: 0.9999984858870967
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:49.600000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:50.400000000
+Elapsed Host Time: 00:00:50.399924700
+Current load: 1
+Cumulative load: 0.9999985059523809
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:50.400000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:51.200000000
+Elapsed Host Time: 00:00:51.199925500
+Current load: 1.0001
+Cumulative load: 0.999998544921875
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:51.200000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:52.000000000
+Elapsed Host Time: 00:00:51.999924800
+Current load: 1.0001
+Cumulative load: 0.9999985538461539
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:52.000000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:52.800000000
+Elapsed Host Time: 00:00:52.799941100
+Current load: 0.9995
+Cumulative load: 0.999998884469697
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:52.800000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:53.600000000
+Elapsed Host Time: 00:00:53.599941300
+Current load: 0.9961
+Cumulative load: 0.9999989048507463
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:53.600000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:54.400000000
+Elapsed Host Time: 00:00:54.399941500
+Current load: 0.9888
+Cumulative load: 0.999998924632353
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:54.400000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:55.200000000
+Elapsed Host Time: 00:00:55.199941300
+Current load: 0.999
+Cumulative load: 0.9999989365942029
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:55.200000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:56.000000000
+Elapsed Host Time: 00:00:55.999937600
+Current load: 1.0134
+Cumulative load: 0.9999988857142857
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:56.000000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:56.800000000
+Elapsed Host Time: 00:00:56.799938100
+Current load: 1.0134
+Cumulative load: 0.9999989102112676
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:56.800000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:57.600000000
+Elapsed Host Time: 00:00:57.599941900
+Current load: 0.9996
+Cumulative load: 0.9999989913194445
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:57.600000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:58.400000000
+Elapsed Host Time: 00:00:58.399924700
+Current load: 1.0001
+Cumulative load: 0.9999987106164383
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:58.400000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:59.200000000
+Elapsed Host Time: 00:00:59.199924500
+Current load: 1
+Cumulative load: 0.9999987246621621
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:59.200000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:01:00.000000000
+Elapsed Host Time: 00:00:59.999941300
+Current load: 0.9977
+Cumulative load: 0.9999990216666667
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:00.000000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:01:00.800000000
+Elapsed Host Time: 00:01:00.799941400
+Current load: 1.0001
+Cumulative load: 0.9999990361842105
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:00.800000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:01:01.600000000
+Elapsed Host Time: 00:01:01.599941700
+Current load: 0.9968
+Cumulative load: 0.9999990535714286
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:01.600000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:01:02.400000000
+Elapsed Host Time: 00:01:02.399941200
+Current load: 0.9996
+Cumulative load: 0.9999990576923077
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:02.400000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:01:03.200000000
+Elapsed Host Time: 00:01:03.199924900
+Current load: 1.0001
+Cumulative load: 0.9999988117088607
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:03.200000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:01:04.000000000
+Elapsed Host Time: 00:01:03.999924900
+Current load: 0.9866
+Cumulative load: 0.9999988265625
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:04.000000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:01:04.800000000
+Elapsed Host Time: 00:01:04.799924700
+Current load: 0.9999
+Cumulative load: 0.999998837962963
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:04.800000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:01:05.600000000
+Elapsed Host Time: 00:01:05.599924700
+Current load: 1.0001
+Cumulative load: 0.9999988521341463
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:05.600000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:01:06.400000000
+Elapsed Host Time: 00:01:06.399924700
+Current load: 0.9869
+Cumulative load: 0.9999988659638555
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:06.400000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:01:07.200000000
+Elapsed Host Time: 00:01:07.199925300
+Current load: 1.0007
+Cumulative load: 0.9999988883928571
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:07.200000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:01:08.000000000
+Elapsed Host Time: 00:01:07.999933600
+Current load: 0.996
+Cumulative load: 0.9999990235294117
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:08.000000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:01:08.800000000
+Elapsed Host Time: 00:01:08.799943300
+Current load: 0.9996
+Cumulative load: 0.999999175872093
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:08.800000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:01:09.600000000
+Elapsed Host Time: 00:01:09.599938300
+Current load: 1.0007
+Cumulative load: 0.9999991135057471
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:09.600000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:01:10.400000000
+Elapsed Host Time: 00:01:10.399942100
+Current load: 1
+Cumulative load: 0.9999991775568182
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:10.400000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:01:11.200000000
+Elapsed Host Time: 00:01:11.199941900
+Current load: 1.0008
+Cumulative load: 0.9999991839887641
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:11.200000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:01:12.000000000
+Elapsed Host Time: 00:01:11.999940800
+Current load: 0.9995
+Cumulative load: 0.9999991777777778
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:12.000000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:01:12.800000000
+Elapsed Host Time: 00:01:12.799941500
+Current load: 1.0004
+Cumulative load: 0.9999991964285714
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:12.800000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:01:13.600000000
+Elapsed Host Time: 00:01:13.599941600
+Current load: 1.0004
+Cumulative load: 0.9999992065217391
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:13.600000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:01:14.400000000
+Elapsed Host Time: 00:01:14.399941700
+Current load: 0.9658
+Cumulative load: 0.9999992163978495
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:14.400000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:01:15.200000000
+Elapsed Host Time: 00:01:15.199941000
+Current load: 1.0001
+Cumulative load: 0.9999992154255319
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:15.200000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:01:16.000000000
+Elapsed Host Time: 00:01:15.999925500
+Current load: 0.9878
+Cumulative load: 0.9999990197368421
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:16.000000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:01:16.800000000
+Elapsed Host Time: 00:01:16.799924900
+Current load: 0.9997
+Cumulative load: 0.9999990221354167
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:16.800000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:01:17.600000000
+Elapsed Host Time: 00:01:17.599943900
+Current load: 1.0018
+Cumulative load: 0.9999992770618557
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:17.600000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:01:18.400000000
+Elapsed Host Time: 00:01:18.399924800
+Current load: 0.9862
+Cumulative load: 0.9999990408163265
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:18.400000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:01:19.200000000
+Elapsed Host Time: 00:01:19.199925300
+Current load: 0.9734
+Cumulative load: 0.9999990568181818
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:19.200000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:01:20.000000000
+Elapsed Host Time: 00:01:19.999924900
+Current load: 0.9995
+Cumulative load: 0.99999906125
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:20.000000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:01:20.800000000
+Elapsed Host Time: 00:01:20.799924900
+Current load: 1.0001
+Cumulative load: 0.9999990705445545
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:20.800000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:01:21.600000000
+Elapsed Host Time: 00:01:21.599924600
+Current load: 0.9847
+Cumulative load: 0.9999990759803922
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:21.600000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:01:22.400000000
+Elapsed Host Time: 00:01:22.399925400
+Current load: 1
+Cumulative load: 0.9999990946601942
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:22.400000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:01:23.200000000
+Elapsed Host Time: 00:01:23.199924900
+Current load: 0.9995
+Cumulative load: 0.9999990973557692
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:23.200000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:01:24.000000000
+Elapsed Host Time: 00:01:23.999929300
+Current load: 0.9912
+Cumulative load: 0.9999991583333333
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:24.000000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:01:24.800000000
+Elapsed Host Time: 00:01:24.799925400
+Current load: 1.0009
+Cumulative load: 0.9999991202830188
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:24.800000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:01:25.600000000
+Elapsed Host Time: 00:01:25.599924600
+Current load: 0.9989
+Cumulative load: 0.9999991191588785
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:25.600000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:01:26.400000000
+Elapsed Host Time: 00:01:26.399924700
+Current load: 0.9999
+Cumulative load: 0.9999991284722223
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:26.400000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:01:27.200000000
+Elapsed Host Time: 00:01:27.199924700
+Current load: 1.0003
+Cumulative load: 0.99999913646789
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:27.200000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:01:28.000000000
+Elapsed Host Time: 00:01:27.999924700
+Current load: 1.0001
+Cumulative load: 0.9999991443181818
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:28.000000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:01:28.800000000
+Elapsed Host Time: 00:01:28.799941100
+Current load: 1.0163
+Cumulative load: 0.9999993367117117
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:28.800000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:01:29.600000000
+Elapsed Host Time: 00:01:29.599925600
+Current load: 1.0009
+Cumulative load: 0.9999991696428572
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:29.600000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:01:30.400000000
+Elapsed Host Time: 00:01:30.399924400
+Current load: 0.9998
+Cumulative load: 0.9999991637168142
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:30.400000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:01:31.200000000
+Elapsed Host Time: 00:01:31.199924400
+Current load: 0.9997
+Cumulative load: 0.9999991710526316
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:31.200000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:01:32.000000000
+Elapsed Host Time: 00:01:31.999954300
+Current load: 0.9969
+Cumulative load: 0.9999995032608696
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:32.000000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:01:32.800000000
+Elapsed Host Time: 00:01:32.799944700
+Current load: 1.002
+Cumulative load: 0.9999994040948276
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:32.800000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:01:33.600000000
+Elapsed Host Time: 00:01:33.599924600
+Current load: 0.987
+Cumulative load: 0.9999991944444444
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:33.600000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:01:34.400000000
+Elapsed Host Time: 00:01:34.399924700
+Current load: 0.9997
+Cumulative load: 0.9999992023305084
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:34.400000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:01:35.200000000
+Elapsed Host Time: 00:01:35.199925000
+Current load: 1
+Cumulative load: 0.999999212184874
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:35.200000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:01:36.000000000
+Elapsed Host Time: 00:01:35.999980400
+Current load: 0.7473
+Cumulative load: 0.9999997958333333
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:36.000000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:01:36.800000000
+Elapsed Host Time: 00:01:36.799924700
+Current load: 0.9998
+Cumulative load: 0.999999222107438
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:36.800000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:01:37.600000000
+Elapsed Host Time: 00:01:37.599938400
+Current load: 1.0134
+Cumulative load: 0.999999368852459
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:37.600000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:01:38.400000000
+Elapsed Host Time: 00:01:38.399924900
+Current load: 0.9997
+Cumulative load: 0.9999992367886179
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:01:38.400000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:00.000000000
+Elapsed Host Time: 00:00:00.000000000
+Current load: NaN
+Cumulative load: NaN
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:00.000000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:00.800000000
+Elapsed Host Time: 00:00:00.799951500
+Current load: 1
+Cumulative load: 0.999939375
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:00.800000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:01.600000000
+Elapsed Host Time: 00:00:01.599923500
+Current load: 1
+Cumulative load: 0.9999521875
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:01.600000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:02.400000000
+Elapsed Host Time: 00:00:02.399934900
+Current load: 0.9976
+Cumulative load: 0.999972875
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:02.400000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:03.200000000
+Elapsed Host Time: 00:00:03.199923800
+Current load: 1
+Cumulative load: 0.9999761875
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:03.200000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:04.000000000
+Elapsed Host Time: 00:00:03.999923900
+Current load: 0.9999
+Cumulative load: 0.999980975
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:04.000000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:04.800000000
+Elapsed Host Time: 00:00:04.799941800
+Current load: 1.0001
+Cumulative load: 0.999987875
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:04.800000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:05.600000000
+Elapsed Host Time: 00:00:05.599924700
+Current load: 1.0012
+Cumulative load: 0.9999865535714286
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:05.600000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:06.400000000
+Elapsed Host Time: 00:00:06.399924000
+Current load: 1.0003
+Cumulative load: 0.999988125
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:06.400000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:07.200000000
+Elapsed Host Time: 00:00:07.199923400
+Current load: 0.9999
+Cumulative load: 0.9999893611111111
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:07.200000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:08.000000000
+Elapsed Host Time: 00:00:07.999924000
+Current load: 1.0001
+Cumulative load: 0.9999905
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:08.000000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:08.800000000
+Elapsed Host Time: 00:00:08.799923700
+Current load: 1
+Cumulative load: 0.9999913295454546
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:08.800000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:09.600000000
+Elapsed Host Time: 00:00:09.599923800
+Current load: 0.9739
+Cumulative load: 0.9999920625
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:09.600000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:10.400000000
+Elapsed Host Time: 00:00:10.399924000
+Current load: 1
+Cumulative load: 0.9999926923076923
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:10.400000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:11.200000000
+Elapsed Host Time: 00:00:11.199940800
+Current load: 0.9996
+Cumulative load: 0.9999947142857143
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:11.200000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:12.000000000
+Elapsed Host Time: 00:00:11.999923400
+Current load: 0.9999
+Cumulative load: 0.9999936166666666
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:12.000000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:12.800000000
+Elapsed Host Time: 00:00:12.799937500
+Current load: 1.0138
+Cumulative load: 0.9999951171875
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:12.800000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:13.600000000
+Elapsed Host Time: 00:00:13.599923500
+Current load: 0.9843
+Cumulative load: 0.999994375
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:13.600000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:14.400000000
+Elapsed Host Time: 00:00:14.399923400
+Current load: 0.9995
+Cumulative load: 0.9999946805555555
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:14.400000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:15.200000000
+Elapsed Host Time: 00:00:15.199941200
+Current load: 0.9987
+Cumulative load: 0.9999961315789474
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:15.200000000]] LED STATUS: OFF
+[[Domain = Elapsed Virtual Time: 00:00:16.000000000
+Elapsed Host Time: 00:00:15.999923600
+Current load: 0.9997
+Cumulative load: 0.999995225
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:16.000000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:00.000000000
+Elapsed Host Time: 00:00:00.000000000
+Current load: NaN
+Cumulative load: NaN
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:00.000000000]] LED STATUS: ON 
+[[Domain = Elapsed Virtual Time: 00:00:00.000000000
+Elapsed Host Time: 00:00:00.000000000
+Current load: NaN
+Cumulative load: NaN
+State: WaitingForReportBack
+Advance immediately: False
+Quantum: 00:00:00.000100000, TimeElapsed = 00:00:00.000000000]] LED STATUS: ON 
