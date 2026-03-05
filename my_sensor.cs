@@ -32,7 +32,7 @@ namespace Antmicro.Renode.Peripherals.Sensors
 
         public void Reset()
         {
-            Distance = 1000;
+            Distance = 10;
         }
 
         public void Dispose()
